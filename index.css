@@ -72,3 +72,8 @@ h1{
   .price{
     float: right;
   }
+.about{
+     text-align: center;
+    margin: 0 0 70px 0;
+    color: #9c7272;
+}
