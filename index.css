@@ -116,5 +116,9 @@ h1{
             box-shadow: none;
             color: #2c5777;
           }
-        
+        .nghia { 
+            padding: 10px;
+     background: rgba(10,10,10,0);
+     text-align: center;
+}
         
