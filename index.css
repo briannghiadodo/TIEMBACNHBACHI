@@ -33,7 +33,7 @@ h1{
     color: rgba(255,255,255,1);
     background: black;
     background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-    backgrund: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
     padding: 10px;
     text-align: justify;
     line-height: 28px;
@@ -128,5 +128,27 @@ h1{
     margin: 40px 0 0 0;
     border-radius: 12px;
 }
+.menuItems > li { 
+  color: red;
+}
 
-
+label { 
+  border : 5px solid
+}
+#order { 
+  position: relative;
+  border : 5px solid;
+  border-radius: 5%;
+  margin-top: 20px;
+  padding: 5px;
+}
+fieldset { 
+  border-radius: 5%;
+  position: relative;
+  padding: 20px;
+  margin-top: 5px;
+}
+label, input { 
+  margin-bottom: 10px;
+  background-color: pink;
+}
